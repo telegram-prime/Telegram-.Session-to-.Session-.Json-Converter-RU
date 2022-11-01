@@ -1,8 +1,8 @@
 # Конвертер Телеграм аккаунтов формата .session  в формат .session+.json.
 ## Сделает Ваши Телеграм сессии совместимыми с программой Telegram Gods.
  
- * Description is also avalable in English. See [Telegram Gods ENG](https://github.com/telegram-gods/Telegram-.Session-to-.Session-.Json-Converter)
- * 描述也可以在Chineese中提供。 参见 [Telegram Gods CN](https://github.com/telegram-gods/Telegram-.Session-to-.Session-.Json-Converter-CN)
+ * Description is also avalable in English. See [Telegram Gods ENG](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter)
+ * 描述也可以在Chineese中提供。 参见 [Telegram Gods CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
 
 Конвертер выполнен таким образом чтобы пользователь максимально самостоятельно и детально мог настроить конфигурацию генерации .json файла, ведь именно в нем хранится самая важная информация, заполнив неверно которую, можно потерять аккаунты. Так же это позволяет конфигуратору создавать .json файлы для любого языка и для любого девайса.
  
