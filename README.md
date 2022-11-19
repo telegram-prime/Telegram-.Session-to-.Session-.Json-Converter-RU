@@ -21,6 +21,9 @@
 - 1000 операций на период 365 дней (в зависимости что наступит раньше),
 - Неограниченное количество операций на неограниченный срок.
 
+## Загрузка:
+ - [Всегда последняя версия](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU/releases/latest)
+
 
 ## Скриншоты:
 <img width="366" alt="SeToSaJ_7" src="https://user-images.githubusercontent.com/94137664/192512275-7f7a258f-414a-4a2a-a325-d33d60034dd3.png"> <img width="365" alt="SeToSaJ_8" src="https://user-images.githubusercontent.com/94137664/192512261-ddde291b-b348-442c-9f12-3bbb5fca1457.png">
@@ -32,12 +35,12 @@
 
 
 ##  Контакты:
-- Email: info[@]telegram-gods.com
+- Email: manager[@]telegramprime.com
 - Telegram: @TGG_Sales
 
 * либо через форму связи на наших сайтах Telegram-Gods:
-- Веб: https://telegram-gods.pro/ - EN Version
-- Веб: https://telegram-gods.com/ - RU Версия
+- Веб: https://telegramprime.com/ - RU версия
+- Веб: https://telegramprime.net/ - EN версия
 
 
 ## Мотивация проекта:
