@@ -8,6 +8,7 @@
  
 ## Конвертер позволит пользователю:
  - Сконвертировать файлы Telegram аккаунтов формата .session в формат .session+.json.
+ - Поддерживает сессии формата Pyrogram.
  - Поддерживает повторную авторизацию учетной записи (создает новую сессию).
  - многопоточная работа.
  - Настройка использования уникальных HTTP или SOCKS5 для подключения к сессии (поддержка большого количества прокси);
@@ -44,7 +45,6 @@
 ##  Контакты:
 - Email:    manager[@]telegramprime.net
 - Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
 - TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
 - Discord:  [Send message](https://telegramprime.com/discord-contact)
 - Element:  [Send message](https://telegramprime.com/element-contact)
