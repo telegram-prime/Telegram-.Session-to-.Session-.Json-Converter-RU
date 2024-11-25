@@ -1,5 +1,5 @@
 # STSJ Converter - Конвертер Телеграм аккаунтов формата .session  в формат .session+.json.
-## Сделает Ваши Телеграм сессии совместимыми с программой ака Telegram PRIME.
+## Сделает Ваши Телеграм сессии совместимыми с программой ака Telegram Prime.
  
  * Description is also avalable in English. See [STSJ Converter ENG](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter)
  * 描述也可以在Chineese中提供。 参见 [STSJ Converter CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
@@ -10,7 +10,8 @@
  - Сконвертировать файлы Telegram аккаунтов формата .session в формат .session+.json.
  - Поддерживает сессии формата Pyrogram.
  - Поддерживает повторную авторизацию учетной записи (создает новую сессию).
- - многопоточная работа.
+ - Поддерживает возможность отключения других сессий на аккаунте при конвертации или переавторизации.
+ - Многопоточная работа.
  - Настройка использования уникальных HTTP или SOCKS5 для подключения к сессии (поддержка большого количества прокси);
  - Управление и регулирование каждого шага в настройке процесса конвертации аккаунта.
  - Сортировка валидных и невалидных аккаунтов по разным папкам.
@@ -34,8 +35,7 @@
 
 ## Скриншоты:
 
-![S2SJ_Converter_v 1 9_RU_MT](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU/assets/94137664/6b05d671-7620-4900-b155-921d4517925a)
-
+![image](https://github.com/user-attachments/assets/774e3e3c-c8d0-4715-901c-6cb0135132cc)
 
 
 ## Видео обзор:
